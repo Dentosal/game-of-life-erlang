@@ -1,0 +1,6 @@
+# Erlang
+*.beam
+*_crash.dump
+
+# macOS
+.DS_Store
